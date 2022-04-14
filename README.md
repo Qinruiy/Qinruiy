@@ -11,9 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 9 hrs           ████████████████████████▒   97.93 %
-Nginx configuration file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Other                      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+TypeScript   6 hrs 24 mins   █████████████████████████   99.79 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
