@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Swift   1 min           █████████████░░░░░░░░░░░░   51.97 %
-Other   0 secs          ████████████░░░░░░░░░░░░░   48.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
